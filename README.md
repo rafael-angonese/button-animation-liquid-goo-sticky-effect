@@ -1,5 +1,8 @@
 <img alt="index" src="animation.gif">
 
+## 💻 Créditos
+
+Este projeto foi feito baseado nos conteúdos de Franks laboratory [YouTube - Frankslaboratory](https://www.youtube.com/c/Frankslaboratory/) || [Website - Frankslaboratory](http://frankslaboratory.co.uk/) feito por Frank [github.com/frdvorak](https://github.com/frdvorak)
 
 ## 🚀 Como executar
 
